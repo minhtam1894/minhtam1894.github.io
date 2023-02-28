@@ -6,13 +6,13 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+#   - title: "Teaching"
+#     url: /teaching/
 
   - title: "Software"
     url: /software/
 
-  - title: "Posts"
+  - title: "Conference"
     url: /posts/
     
   - title: "CV"
