@@ -8,23 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Hello, my name is Tam Minh Phan and I am currently a postdoc at Kunsan National University. My main area of expertise is in roads and pavement, with a focus on researching new technologies that can be applied to improve road and highway performance.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+In addition to my work in the field of roads and pavement, I also have a keen interest in developing technical computer programs. I have experience conducting and analyzing the performance of asphalt concrete, and have even developed a black ice prediction program to help improve road safety during hazardous weather conditions.
+
+Outside of my professional work, I enjoy spending my free time conducting research on cutting-edge technologies that can be applied to roads and highways. I also have a strong interest in image analysis and applying this technology to help improve road safety and performance.
+
+Overall, I am passionate about using my skills and expertise to improve road infrastructure and safety, and I am excited to continue my work in this field in the years to come.
