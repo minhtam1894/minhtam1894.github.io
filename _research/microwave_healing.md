@@ -1,7 +1,7 @@
 ---
 title: "Microwave self-healing of asphalt concrete"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
+excerpt: "<img src='/images/research/microwave_healing.jpg' alt=''>"
 collection: research
 order_number: 30
 header: 
