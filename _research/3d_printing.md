@@ -1,7 +1,7 @@
 ---
 title: "3D Printing in Asphalt Conrete"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/3d_printing.jpg' alt=''>"
 collection: research
 order_number: 10
 header: 
