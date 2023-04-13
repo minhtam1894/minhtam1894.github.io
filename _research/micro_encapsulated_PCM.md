@@ -1,7 +1,7 @@
 ---
 title: "Micro-Encapsulated Phase Change Material"
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: "<img src='/images/research/phase_change_material.png' alt=''>"
 collection: research
 order_number: 20
 header: 
