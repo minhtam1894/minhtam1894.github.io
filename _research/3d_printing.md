@@ -1,5 +1,5 @@
 ---
-title: "3D Printing in Asphalt Conrete"
+title: "3D Printing in Asphalt Concrete"
 layout: single-portfolio
 excerpt: "<img src='/images/research/3d_printing.jpg' alt=''>"
 collection: research
