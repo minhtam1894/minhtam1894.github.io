@@ -1,7 +1,7 @@
 ---
 title: "Induction self-healing of asphalt concrete"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ternary.png' alt=''>"
+excerpt: "<img src='/images/research/induction_healing.jpg' alt=''>"
 collection: research
 order_number: 40
 header: 
