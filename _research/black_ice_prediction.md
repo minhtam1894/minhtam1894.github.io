@@ -10,6 +10,8 @@ header:
 
 The first stage of study aimed to develop a black ice prediction model using weather forecast and GIS data while the second study investigated two methods for detecting black ice. The rain sensor and deep learning methods were explored, considering environmental conditions such as temperature, humidity, and air voids in asphalt concrete. The rain sensor method showed that the electrical resistance involved cooling time and reached a constant value when black ice was formed. On the other hand, the deep learning method achieved 90% accuracy in detecting black ice. Additionally, experiments using infrared heating confirmed that environmental temperature affects the melting time and melting area of black ice. Both studies aim to improve safety for drivers and reduce the risk of accidents caused by black ice.
 
+![](/images/research/black_ice_prediction_research.png)
+
 ## Article 1
 
 Tam M. Phan et al., . "Black Ice Prediction Model for Road Pavement Using Weather Forecast Data And GIS Database"
