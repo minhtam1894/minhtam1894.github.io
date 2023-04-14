@@ -20,30 +20,11 @@ header:
 
 As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
 
-# BayesPostEst
+# Dynamic Modulus Master Curve
 
-[![R build status](https://github.com/ShanaScogin/BayesPostEst/workflows/R-CMD-check/badge.svg)](https://github.com/ShanaScogin/BayesPostEst/actions)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/BayesPostEst)](https://CRAN.R-project.org/package=BayesPostEst)
-[![Codecov test coverage](https://codecov.io/gh/ShanaScogin/BayesPostEst/branch/master/graph/badge.svg)](https://codecov.io/gh/ShanaScogin/BayesPostEst?branch=master)
+The dynamic modulus master curve is a mathematical model used to predict the stiffness of asphalt concrete under different temperature and loading conditions. It combines laboratory testing and computational methods to generate a comprehensive picture of the material's behavior, helping engineers design more durable and reliable asphalt pavements.
 
-I am a developer of the [BayesPostEst](https://cran.r-project.org/package=BayesPostEst) R package for generating postestimation quantities of interest from Bayesian models. The package contains functions for producing regression tables, plotting predicted probabilities, calculating first differences, creating coefficient plots, and many other quantities. You can view the [Journal of Open Source Software](https://joss.theoj.org/) article for the package [here](https://doi.org/10.21105/joss.01722).
-
-{% include gallery %}
-
-To install the latest release on CRAN:
-
-```r
-install.packages("BayesPostEst")
-```
-
-The latest [development version](https://github.com/ShanaScogin/BayesPostEst) on GitHub can be installed with:
-
-```r
-library(remotes)
-install_github("ShanaScogin/BayesPostEst")
-```
-
-You can try out the `mcmcCoefPlot` function from the package in the interactive R console below:
+![](/images/software/dynamic_modulus_1.png)
 
 # RWmisc
 
