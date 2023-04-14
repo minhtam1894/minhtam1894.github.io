@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Tam Minh Phan and I am currently a postdoc at Kunsan National University. My main area of expertise is in roads and pavement, with a focus on researching new technologies that can be applied to improve road and highway performance.
+My name is Tam Minh Phan, and I am a postdoctoral researcher at Kunsan National University, specializing in roads and pavement. My research focuses on exploring innovative technologies to enhance road and highway performance. In addition, I possess a keen interest in developing technical computer programs, having expertise in analyzing the performance of asphalt concrete and developing a black ice prediction program for improving road safety in hazardous weather conditions.
 
-In addition to my work in the field of roads and pavement, I also have a keen interest in developing technical computer programs. I have experience conducting and analyzing the performance of asphalt concrete, and have even developed a black ice prediction program to help improve road safety during hazardous weather conditions.
-
-Outside of my professional work, I enjoy spending my free time conducting research on cutting-edge technologies that can be applied to roads and highways. I also have a strong interest in image analysis and applying this technology to help improve road safety and performance.
-
-Overall, I am passionate about using my skills and expertise to improve road infrastructure and safety, and I am excited to continue my work in this field in the years to come.
+During my free time, I enjoy researching advanced technologies for road and highway applications, particularly image analysis, and deep learing, which have the potential to improve road performance and safety. My passion lies in utilizing my skills and knowledge to improve road infrastructure and safety, and I am looking forward to continuing my work in this field in the future.
