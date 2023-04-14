@@ -28,7 +28,7 @@ The dynamic modulus master curve is a mathematical model used to predict the sti
 
 # IDEAL-CT Calculator
 
-IDEAL-CT is a reliable design procedure for concrete pavements that can resist fatigue, reflective, top-down, and low-temperature cracking. The CTIndex (Cracking Tolerance Index) is a measure of a pavement's ability to resist cracking, calculated based on pavement properties, traffic loads, and environmental conditions. Unlike some machines that use only the maximum load, the calculation of the CTIndex requires the entire load versus displacement curve, which is a common requirement for tests that evaluate the mechanical properties of materials.
+IDEAL-CT (Indirect Tensile Asphalt Cracking Test) is a reliable design procedure for concrete pavements that can resist fatigue, reflective, top-down, and low-temperature cracking. The CTIndex (Cracking Tolerance Index) is a measure of a pavement's ability to resist cracking, calculated based on pavement properties, traffic loads, and environmental conditions. Unlike some machines that use only the maximum load, the calculation of the CTIndex requires the entire load versus displacement curve, which is a common requirement for tests that evaluate the mechanical properties of materials.
 
 ![](/images/software/ideal_ct_1.png)
 
