@@ -7,10 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: research on the properites of asphalt mixture, including Hot Mix Asphalt, Warm Mix Asphalt, and Cold Mix Asphalt. 
-
-
-My other main research is developed computer program black ice prediction program
+In recent years, there has been a growing interest in developing innovative technologies for improving the performance and durability of asphalt concrete, a widely used material in the construction industry for roadways, parking lots, and other infrastructure projects. Among these technologies, 3D printing, black ice prediction programs, microencapsulated phase change materials, microwave self-healing, and induction self-healing are some of the most promising approaches that have been extensively researched and developed in the past few years. These technologies aim to enhance the mechanical, thermal, and self-healing properties of asphalt concrete, which can ultimately lead to a longer lifespan and reduced maintenance costs. In this research, we will explore these innovative technologies and their potential applications in asphalt concrete construction.
 
 
 <nbsp>
