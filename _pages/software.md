@@ -24,48 +24,31 @@ As one of my two research agendas involves improving the tools we use to study p
 
 The dynamic modulus master curve is a mathematical model used to predict the stiffness of asphalt concrete under different temperature and loading conditions. It combines laboratory testing and computational methods to generate a comprehensive picture of the material's behavior, helping engineers design more durable and reliable asphalt pavements.
 
-![](/images/software/dynamic_modulus_1.png)
+![](/images/software/dynamic_modulus.png)
 
-# RWmisc
+# IDEAL-CT Calculator
 
-[![R build status](https://github.com/jayrobwilliams/RWmisc/workflows/R-CMD-check/badge.svg)](https://github.com/jayrobwilliams/RWmisc/actions)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/RWmisc)](https://CRAN.R-project.org/package=RWmisc)
-[![codecov](https://codecov.io/gh/jayrobwilliams/RWmisc/branch/master/graph/badge.svg)](https://codecov.io/gh/jayrobwilliams/RWmisc)
+IDEAL-CT is a reliable design procedure for concrete pavements that can resist fatigue, reflective, top-down, and low-temperature cracking. The CTIndex (Cracking Tolerance Index) is a measure of a pavement's ability to resist cracking, calculated based on pavement properties, traffic loads, and environmental conditions. Unlike some machines that use only the maximum load, the calculation of the CTIndex requires the entire load versus displacement curve, which is a common requirement for tests that evaluate the mechanical properties of materials.
 
-I've collected convenience functions that I've written to address issues I frequently confront in my work into a personal R package called [RWmisc](https://CRAN.R-project.org/package=RWmisc). It includes functions for:
+![](/images/software/ideal_ct_1.png)
 
-- Managing multiple different projections for cross-national spatial data
-- Converting latitude-longitude data in archaic forms (degrees, minutes, seconds)
-- Correcting for overlapping polygons when aggregating raster data to polygons
-- My custom minimal ggplot2 theme
+# Black ice prediction program
 
-![](/images/software/spatial_weighting.png)
+A black ice prediction program is a computerized tool that uses data from weather forecasts, pavement temperature sensors, and other sources to predict the formation of black ice on roadways. Black ice is a thin, transparent layer of ice that forms on pavement surfaces and can cause hazardous driving conditions. The prediction program can help transportation agencies and maintenance crews make informed decisions about when and where to apply anti-icing or de-icing treatments to prevent or mitigate the impact of black ice on road safety. 
 
-To install the latest release on CRAN:
+![](/images/software/black_ice_prediction_1.png)
 
-```r
-install.packages("RWmisc")
-```
+# Beads Couting Program
 
-The latest [development version](https://github.com/jayrobwilliams/RWmisc) on GitHub can be installed with:
+A beads counting program is a computerized tool used to analyze and quantify the number and size distribution of microscopic beads or particles in a sample. This type of program is commonly used in research, quality control, and manufacturing processes, where accurate and precise measurement of particle size and concentration is critical. Beads counting programs typically use image processing algorithms and software to analyze images of the sample taken under a microscope or other imaging system
 
-```r
-library(remotes)
-install_github("jayrobwilliams/RWmisc")
-```
+![](/images/software/bead_counting.png)
 
-# Other resources
+# Tukey-Kramer post-hoc Analysis
 
-I also have a number of other software resources focused on making computation and academic life easier:
+The Tukey-Kramer post-hoc analysis, also known as the Tukey's range test, is a statistical method used to determine the significant differences between multiple groups in an experiment after conducting an ANOVA (Analysis of Variance) test. The Tukey-Kramer test compares the means of all possible pairs of groups and calculates the minimum significant difference (MSD) needed to declare a significant difference between them. If the difference between two groups exceeds the MSD, then those groups are considered significantly different at a certain level of confidence (usually 95% or 99%). The Tukey-Kramer test is a conservative post-hoc test, meaning that it controls the overall error rate by adjusting the significance level based on the number of pairwise comparisons made. This test is commonly used in the fields of biology, psychology, and social sciences, among others, to identify significant differences between experimental groups.
 
-- [The template](https://github.com/jayrobwilliams/JobMarket) I use for my academic job market materials
-    - Fill in school/position information in one file and it populates to all statements
-    - Generate summary statistics from teaching evaluations and integrate into statements
-    - Combine multiple teaching evaluations into a single portfolio document
-    - Do all of this programmatically with GNU Make!
-- [The template](https://github.com/jayrobwilliams/UNC-Dissertation-Template) I used for my dissertation
-    - This satisfied the formatting requirements at UNC in 2019
-    - Some tweaking likely required to use at another institution or in the future
-- [Scripts](https://github.com/jayrobwilliams/Teaching) that I use to save time on various teaching-related tasks like grading
-- [Functions](https://github.com/jayrobwilliams/ComputerVision) for extracting still frames from videos and information from images in Python using OpenCV
-- [Compiling OpenCV](/files/html/OpenCV_Install.html) from source for Anaconda virtual environments instead of Homebrew ones or system Python installations
+![](/images/software/tukey_kramer.png)
+
+
+
